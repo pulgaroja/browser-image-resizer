@@ -1,7 +1,7 @@
 {
   "name": "browser-image-resizer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sandbox created to test the npm called \"browser-image-resizer\"",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
